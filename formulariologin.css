@@ -1,0 +1,274 @@
+
+.header {
+ overflow: hidden;
+ background-color: #f2f2f2;
+ width:100%;
+ height:90px;
+  
+}
+
+
+.Linkpagina{
+ position: absolute;
+ left:1200px;
+ top:20px;
+  color: #4e2159;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 25px;
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+
+.header a.logo {
+ position: absolute;
+ left:40px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+
+ .footerlogin{
+	
+    position: absolute;
+	top: 780px;
+    bottom: 0;
+    background-color: white ;
+    color: white;
+    width: 100%;
+    height: 80px;    
+    text-align: center;
+    line-height: 100px;	
+	
+	
+}
+
+  
+  
+  
+/* CSS reset */
+*, *:before, *:after { 
+  margin:0;
+  padding:0;
+  font-family: Arial,sans-serif;
+}
+
+body{
+  margin:0px;
+}
+
+a{
+  text-decoration: none;
+}
+
+/* esconde as ancoras da tela */
+a.links{
+  display: none;
+}
+
+/* content que contem os formulários */
+.content{
+  width: 700px;
+  margin: 40px auto;
+  position: relative; 
+  
+}
+
+/* formatando o cabeçalho dos formulários */
+.h1login{
+  font-size: 45px;
+  color: #bebcbc;
+  padding: 10px 0;
+  font-family: Arial,sans-serif;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 35px;
+}
+
+
+p{
+  margin-bottom:20px;
+}
+p:first-child{
+  margin: 0px;
+}
+label{
+  color: #646464;
+  position: relative;
+}
+
+/**** advanced input styling ****/
+/* placeholder */
+::-webkit-input-placeholder  {
+  color: #bebcbc; 
+ 
+}
+input:-moz-placeholder,
+textarea:-moz-placeholder{
+  color: #bebcbc;
+  
+} 
+input {
+  outline: none;
+}
+
+input:not([type="checkbox"]){
+  width: 95%;
+  margin-top: 4px;
+  padding: 10px;  
+  border: 1px solid #b2b2b2;
+  
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  
+  -webkit-box-shadow: 0px 1px 4px 0px rgba(168, 168, 168, 0.6) inset;
+  box-shadow: 0px 1px 4px 0px rgba(168, 168, 168, 0.6) inset;
+  
+  -webkit-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+}
+
+/*estilo do botão submit */
+input[type="submit"]{
+  width: 100%!important;
+  cursor: pointer;  
+  background: black;
+  padding: 8px 5px;
+  color: white;
+  font-size: 20px;  
+  border: 1px solid #626262; 
+  margin-bottom: 10px;  
+  text-shadow: 0 1px 1px white;
+  
+  -webkit-border-radius: 5px;
+  border-radius: 10px;
+  
+  transition: all 0.2s linear;
+}
+input[type="submit"]:hover{
+  background: white;
+}
+
+/*marcando os links para mudar de um formulário para outro */
+.link{
+  position: absolute;
+  background: #F8F8F8;
+  color: #ABA9A9;
+  left: 0px;
+  height: 20px;
+  width: 440px;
+  padding: 17px 30px 20px 30px;
+  font-size: 16px;
+  text-align: right;
+  border-top: 1px solid #F8F8F8;
+
+  -webkit-border-radius: 0 0  5px 5px;
+  border-radius: 0 0  5px 5px;
+}
+.link a {
+  font-weight: bold;
+  background: #D4D4D4;
+  padding: 6px;
+  color: WHITE;
+  margin-left: 10px;
+  border: 1px solid WHITE;
+
+  -webkit-border-radius: 9px;
+  border-radius: 9px;  
+
+  -webkit-transition: all 0.4s linear;
+  transition: all 0.4s  linear;
+}
+.link a:hover {
+  color: white;
+  background:black;
+  border: 1px solid black;
+}
+
+/* estilos para para ambos os formulários */
+#cadastro, 
+#login{
+  position: absolute;
+  top: 30px;
+  width: 88%; 
+  padding: 18px 6% 60px 6%;
+  margin: 0 0 35px 0;
+  background: rgb(247, 247, 247);
+  border: 1px solid rgba(147, 184, 189,0.8);
+  
+  -webkit-box-shadow: 10px;
+  border-radius: 10px;
+  
+  -webkit-animation-duration: 0.2s;
+  -webkit-animation-timing-function: ease;
+  -webkit-animation-fill-mode: both;
+
+  animation-duration: 0.3s;
+  animation-timing-function: ease;
+  animation-fill-mode: both;
+}
+
+#paracadastro:target ~ .content #cadastro,
+#paralogin:target ~ .content #login{
+  z-index: 2;
+  -webkit-animation-name: fadeInLeft;
+  animation-name: fadeInLeft;
+
+  -webkit-animation-delay: .1s;
+  animation-delay: .1s;
+}
+#registro:target ~ .content #login,
+#paralogin:target ~ .content #cadastro{
+  -webkit-animation-name: fadeOutLeft;
+  animation-name: fadeOutLeft;
+}
+
+/*fadeInLeft*/
+@-webkit-keyframes fadeInLeft {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateX(-20px);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+  }
+}
+
+@keyframes fadeInLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/*fadeOutLeft*/
+@-webkit-keyframes fadeOutLeft {
+  0% {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+  }
+  100% {
+    opacity: 0;
+    -webkit-transform: translateX(-20px);
+  }
+}
+
+@keyframes fadeOutLeft {
+  0% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  100% {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+}
+
+

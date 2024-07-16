@@ -1,0 +1,4142 @@
+header#sec-f0de{
+background-color: #f2f2f2; 	 
+ }
+
+nav#NAVALFABETO li{
+	display:inline-block;
+	position:absolute;
+	top:-15px;
+	left:990px;
+	font-size: 21px ; 
+}
+
+
+
+
+
+.cardA {
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  left:170px;  /*x7*/
+    top:100px;
+  background-color:#Eddafc;
+}
+.img-cardA{
+position:absolute;
+left:-15px;
+top:-17px;
+width:150px;
+height: 150px;
+	
+	
+}
+
+
+
+.cardB {
+  
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:100px;
+  left:310px;
+  background-color:#Eddafc;
+}
+.img-cardB{
+position:absolute;
+left:-15px;
+top:-17px;
+width:150px;
+height: 150px;
+	
+	
+}
+
+
+.cardC {
+
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:100px;
+  left:450px;
+  background-color:#Eddafc;
+}
+.img-cardC{
+position:absolute;
+left:-15px;
+top:-10px;
+width:150px;
+height: 150px;
+	
+}
+
+
+
+.cardD {
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:100px;
+  left:590px;
+  background-color:#Eddafc;
+}
+.img-cardD{
+position:absolute;
+left:-15px;
+top:-10px;
+width:150px;
+height: 150px;
+	
+}
+
+
+
+.cardE {
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:100px;
+  left:730px;
+  background-color:#Eddafc;
+}
+.img-cardE{
+position:absolute;
+left:-15px;
+top:-10px;
+width:150px;
+height: 150px;
+	
+	
+}
+
+
+.cardF {
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:100px;
+  left:870px;
+  background-color:#Eddafc;
+}
+.img-cardF{
+position:absolute;
+left:-15px;
+top:-17px;
+width:150px;
+height: 150px;
+	
+	
+}
+
+
+.cardG {
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:100px;
+  left:1010px;
+  background-color:#Eddafc;
+}
+.img-cardG{
+position:absolute;
+left:-15px;
+top:-10px;
+width:150px;
+height: 150px;
+	
+}
+
+.cardH {
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:100px;
+  left:1150px;
+  background-color:#Eddafc;
+}
+.img-cardH{
+position:absolute;
+left:-15px;
+top:-10px;
+width:150px;
+height: 150px;
+	
+	
+}
+
+
+.cardI {
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:240px;
+  left:310px;
+  background-color:#Eddafc;
+}
+.img-cardI{
+position:absolute;
+left:-15px;
+top:-17px;
+width:150px;
+height: 150px;
+	
+	
+}
+
+.cardJ {
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:240px;
+  left:450px;
+  background-color:#Eddafc;
+}
+.img-cardJ{
+position:absolute;
+left:-15px;
+top:-10px;
+width:155px;
+height: 155px;
+	
+	
+}
+
+.cardK {
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:240px;
+  left:590px;
+  background-color:#Eddafc;
+}
+.img-cardK{
+position:absolute;
+left:-15px;
+top:-10px;
+width:150px;
+height: 150px;
+	
+	
+}
+
+.cardL {
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:240px;
+  left:730px;
+  background-color:#Eddafc;
+}
+.img-cardL{
+position:absolute;
+left:-15px;
+top:-17px;
+width:150px;
+height: 150px;
+	
+	
+}
+
+.cardM {
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:240px;
+  left:870px;
+  background-color:#Eddafc;
+}
+.img-cardM{
+position:absolute;
+left:-15px;
+top:-17px;
+width:150px;
+height: 150px;
+	
+}
+
+.cardN{
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:240px;
+  left:1010px;
+  background-color:#Eddafc;
+}
+.img-cardN{
+position:absolute;
+left:-15px;
+top:-17px;
+width:150px;
+height: 150px;
+	
+	
+}
+
+.cardO{
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  left:-15px;
+top:-17px;
+  top:380px;
+  left:310px;
+  background-color:#Eddafc;
+}
+.img-cardO{
+position:absolute;
+width:150px;
+height: 150px;
+	
+}
+
+.cardP {
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:380px;
+  left:450px;
+  background-color:#Eddafc;
+}
+.img-cardP{
+position:absolute;
+left:-15px;
+top:-17px;
+width:150px;
+height: 150px;
+	
+}
+
+.cardQ{
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:380px;
+  left:590px;
+  background-color:#Eddafc;
+}
+.img-cardQ{
+position:absolute;
+left:-15px;
+top:-17px;
+width:150px;
+height: 150px;
+	
+	
+}
+
+.cardR {
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:380px;
+  left:730px;
+  background-color:#Eddafc;
+}
+.img-cardR{
+position:absolute;
+left:-15px;
+top:-17px;
+width:150px;
+height: 150px;
+	
+	
+}
+
+.cardS {
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:380px;
+  left:870px;
+  background-color:#Eddafc;
+}
+.img-cardS{
+position:absolute;
+left:-15px;
+top:-17px;
+width:150px;
+height: 150px;
+	
+	
+}
+
+.cardT {
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:380px;
+  left:1010px;
+  background-color:#Eddafc;
+}
+.img-cardT{
+position:absolute;
+left:-15px;
+top:-10px;
+width:150px;
+height: 150px;
+	
+	
+}
+
+.cardU{
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:520px;
+  left:310px;
+  background-color:#Eddafc;
+}
+.img-cardU{
+position:absolute;
+left:-15px;
+top:-17px;
+width:150px;
+height: 150px;
+	
+	
+}
+
+.cardV {
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:520px;
+  left:450px;
+  background-color:#Eddafc;
+}
+.img-cardV{
+position:absolute;
+left:-15px;
+top:-17px;
+width:150px;
+height: 150px;
+	
+	
+}
+
+.cardW {
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:520px;
+  left:590px;
+  background-color:#Eddafc;
+}
+.img-cardW{
+position:absolute;
+left:-15px;
+top:-17px;
+width:150px;
+height: 150px;
+	
+}
+
+.cardX{
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:520px;
+  left:730px;
+  background-color:#Eddafc;
+}
+.img-cardX{
+position:absolute;
+left:-15px;
+top:-10px;
+width:150px;
+height: 150px;
+	
+}
+
+.cardY {
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:520px;
+  left:870px;
+  background-color:#Eddafc;
+}
+.img-cardY{
+position:absolute;
+left:-15px;
+top:-10px;
+width:150px;
+height: 150px;
+	
+	
+}
+
+.cardZ {
+ 
+  border-radius: 20px; /* 5px rounded corners */
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  top:520px;
+  left:1010px;
+  background-color:#Eddafc;
+}
+.img-cardZ{
+position:absolute;
+left:-15px;
+top:-17px;
+width:150px;
+height: 150px;
+	
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}
+.paidox-logo{
+ position: absolute;
+ top: -25px;
+ left: -80px; 
+}
+
+
+
+/*LETRA A*/
+.caixaabelha{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+ 
+ 
+.abelhaposition{
+position: absolute;
+top: 90px;
+left: 10%;
+
+	
+}
+.audioabelha{
+position: absolute;
+top:400px;
+left:42%;	
+
+	
+}
+.caixaabacate{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+
+.abacateposition{
+position: absolute;
+top: 640px;
+left: 10%;
+	
+}
+
+.audioabacate{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+.caixaaviao{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.aviaoposition{
+position: absolute;
+top: 1100px;
+left:10%
+	
+}
+
+.audioaviao{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+.caixaarvore{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.arvoreposition{
+position: absolute;
+top: 1600px;
+left:10%;
+	
+}
+
+.audioarvore{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+/* LETRA B */
+
+.caixabola{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.bolaposition{
+position: absolute;
+top: 90px;
+left:10%;
+	
+}
+
+.audiobola{
+position: absolute;
+top:400px;
+left:42%;	
+	
+	
+}
+
+
+.caixabarco{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.barcoposition{
+position: absolute;
+top: 630px;
+left:10%;
+	
+}
+
+.audiobarco{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+
+
+
+.caixabatom{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.batomposition{
+position: absolute;
+top: 1140px;
+left:10%;
+	
+}
+
+.audiobatom{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+
+
+
+
+.caixaborboleta{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.borboletaposition{
+position: absolute;
+top: 1600px;
+left:10%;
+	
+}
+
+.audioborboleta{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+
+
+
+
+/* LETRA C */
+
+
+
+.caixacama{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.camaposition{
+position: absolute;
+top: 90px;
+left:10%;
+	
+}
+
+.audiocama{
+position: absolute;
+top:400px;
+left:42%;	
+	
+	
+}
+
+
+
+.caixacoelho{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.coelhoposition{
+position: absolute;
+top: 630px;
+left:10%;
+	
+}
+
+.audiocoelho{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+
+
+
+.caixacolher{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.colherposition{
+position: absolute;
+top: 1140px;
+left:10%;
+	
+}
+
+.audiocolher{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+
+
+
+
+.caixacachorro{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.cachorroposition{
+position: absolute;
+top: 1600px;
+left:10%;
+	
+}
+
+.audiocachorro{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+/*letra D*/
+
+
+
+.caixadente{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.denteposition{
+height:360px;
+width:360px;
+position: absolute;
+top: 90px;
+left:10%;
+	
+}
+
+.audiodente{
+position: absolute;
+top:400px;
+left:42%;	
+	
+	
+}
+
+
+
+.caixadiamante{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.diamanteposition{
+position: absolute;
+top: 630px;
+left:10%;
+	
+}
+
+.audiodiamante{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+
+
+.caixadedo{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.dedoposition{
+position: absolute;
+top: 1140px;
+left:10%;
+	
+}
+
+.audiodedo{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+
+
+
+.caixadragao{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.dragaoposition{
+position: absolute;
+top: 1600px;
+left:10%;
+	
+}
+
+.audiodragao{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+
+/*LETRA E*/
+
+
+
+.caixaelefante{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.elefanteposition{
+height:360px;
+width:360px;
+position: absolute;
+top: 90px;
+left:10%;
+	
+}
+
+.audioelefante{
+position: absolute;
+top:400px;
+left:42%;	
+	
+	
+}
+
+
+
+.caixaescada{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.escadaposition{
+position: absolute;
+top: 630px;
+left:10%;
+	
+}
+
+.audioescada{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+
+
+.caixaescova{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.escovaposition{
+position: absolute;
+top: 1140px;
+left:10%;
+	
+}
+
+.audioescova{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+
+
+
+.caixaestojo{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.estojoposition{
+position: absolute;
+top: 1680px;
+left:10%;
+	
+}
+
+.audioestojo{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+/*LETRA F */
+
+
+
+
+.caixafaca{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.facaposition{
+height:360px;
+width:360px;
+position: absolute;
+top: 90px;
+left:10%;
+	
+}
+
+.audiofaca{
+position: absolute;
+top:400px;
+left:42%;	
+	
+	
+}
+
+
+
+.caixafoca{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.focaposition{
+position: absolute;
+top: 630px;
+left:10%;
+	
+}
+
+.audiofoca{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+
+
+.caixafarol{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.farolposition{
+position: absolute;
+top: 1140px;
+left:10%;
+	
+}
+
+.audiofarol{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+
+
+
+.caixafuradeira{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.furadeiraposition{
+position: absolute;
+top: 1600px;
+left:10%;
+	
+}
+
+.audiofuradeira{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+/*Letra G*/
+
+
+.caixagarfo{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.garfoposition{
+height:360px;
+width:360px;
+position: absolute;
+top: 90px;
+left:10%;
+	
+}
+
+.audiogarfo{
+position: absolute;
+top:400px;
+left:42%;	
+	
+	
+}
+
+
+
+.caixagato{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.gatoposition{
+position: absolute;
+top: 630px;
+left:10%;
+	
+}
+
+.audiogato{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+
+
+
+
+.caixagelo{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.geloposition{
+position: absolute;
+top: 1660px;
+left:10%;
+	
+}
+
+.audiogelo{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+
+
+.caixageladeira{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.geladeiraposition{
+position: absolute;
+top: 1140px;
+left:10%;
+	
+}
+
+.audiogeladeira{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+
+
+
+/*Letra H*/
+
+
+.caixahamburguer{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.hamburguerposition{
+height:360px;
+width:360px;
+position: absolute;
+top: 90px;
+left:10%;
+	
+}
+
+.audiohamburguer{
+position: absolute;
+top:400px;
+left:42%;	
+	
+	
+}
+
+
+
+.caixahelicoptero{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.helicopteroposition{
+position: absolute;
+top: 630px;
+left:10%;
+	
+}
+
+.audiohelicoptero{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+
+
+.caixahipopotamo{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.hipopotamoposition{
+position: absolute;
+top: 1140px;
+left:10%;
+	
+}
+
+.audiohipopotamo{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+
+
+
+.caixahomem{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.homemposition{
+position: absolute;
+top: 1600px;
+left:10%;
+	
+}
+
+.audiohomem{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+
+/*Letra I*/
+
+
+.caixaidoso{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.idosoposition{
+height:360px;
+width:360px;
+position: absolute;
+top: 90px;
+left:10%;
+	
+}
+
+.audioidoso{
+position: absolute;
+top:400px;
+left:42%;	
+	
+	
+}
+
+
+
+.caixaigreja{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.igrejaposition{
+position: absolute;
+top: 630px;
+left:10%;
+	
+}
+
+.audioigreja{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+
+
+.caixaingresso{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.ingressoposition{
+position: absolute;
+top: 1140px;
+left:10%;
+	
+}
+
+.audioingresso{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+
+
+
+.caixaisqueiro{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.isqueiroposition{
+position: absolute;
+top: 1600px;
+left:10%;
+	
+}
+
+.audioisqueiro{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+/*Letra J*/
+
+
+.caixajanela{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.janelaposition{
+height:360px;
+width:360px;
+position: absolute;
+top: 90px;
+left:10%;
+	
+}
+
+.audiojanela{
+position: absolute;
+top:400px;
+left:42%;	
+	
+	
+}
+
+
+
+.caixajaqueta{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.jaquetaposition{
+position: absolute;
+top: 630px;
+left:10%;
+	
+}
+
+.audiojaqueta{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+
+
+.caixajardim{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.jardimposition{
+position: absolute;
+top: 1140px;
+left:10%;
+	
+}
+
+.audiojardim{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+
+
+
+.caixajornal{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.jornalposition{
+position: absolute;
+top: 1600px;
+left:10%;
+	
+}
+
+.audiojornal{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+
+
+/*Letra K*/
+
+
+.caixakiwi{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.kiwiposition{
+height:360px;
+width:360px;
+position: absolute;
+top: 90px;
+left:10%;
+	
+}
+
+.audiokiwi{
+position: absolute;
+top:400px;
+left:42%;	
+	
+	
+}
+
+
+
+.caixakarla{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.karlaposition{
+position: absolute;
+top: 630px;
+left:10%;
+	
+}
+
+.audiokarla{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+
+
+.caixakevin{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.kevinposition{
+position: absolute;
+top: 1140px;
+left:10%;
+	
+}
+
+.audiokevin{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+
+
+
+.caixaketchup{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.ketchupposition{
+position: absolute;
+top: 1600px;
+left:10%;
+	
+}
+
+.audioketchup{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+
+
+/*LETRA L*/
+
+.caixalapis{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+
+.lapisposition{
+position: absolute;
+top: 650px;
+left: 10%;
+	
+}
+
+.audiolapis{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+
+.caixalaranja{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+ 
+ 
+.laranjaposition{
+position: absolute;
+top: 90px;
+left: 10%;
+
+	
+}
+.audiolaranja{
+position: absolute;
+top:400px;
+left:42%;	
+
+	
+}
+
+
+.caixalivro{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.livroposition{
+position: absolute;
+top: 1100px;
+left:10%
+	
+}
+
+.audiolivro{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+.caixalua{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.luaposition{
+position: absolute;
+top: 1600px;
+left:10%;
+	
+}
+
+.audiolua{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+
+/* LETRA M */
+
+.caixamacaco{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.macacoposition{
+position: absolute;
+top: 90px;
+left:10%;
+	
+}
+
+.audiomacaco{
+position: absolute;
+top:400px;
+left:42%;	
+	
+	
+}
+
+
+.caixamelancia{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.melanciaposition{
+position: absolute;
+top: 630px;
+left:10%;
+	
+}
+
+.audiomelancia{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+
+
+
+.caixamorango{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.morangoposition{
+position: absolute;
+top: 1090px;
+left:10%;
+	
+}
+
+.audiomorango{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+
+
+
+
+.caixamoto{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.motoposition{
+position: absolute;
+top: 1670px;
+left:10%;
+	
+}
+
+.audiomoto{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+/*LETRA N*/
+
+.caixanavio{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+ 
+ 
+.navioposition{
+position: absolute;
+top: 90px;
+left: 10%;
+
+	
+}
+.audionavio{
+position: absolute;
+top:400px;
+left:42%;	
+
+	
+}
+.caixaneve{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+
+.neveposition{
+position: absolute;
+top: 640px;
+left: 10%;
+	
+}
+
+.audioneve{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+.caixaninho{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.ninhoposition{
+position: absolute;
+top: 1100px;
+left:10%
+	
+}
+
+.audioninho{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+.caixanuvem{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.nuvemposition{
+position: absolute;
+top: 1655px;
+left:10%;
+	
+}
+
+.audionuvem{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+/*LETRA O*/
+
+.caixaoculos{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+ 
+ 
+.oculosposition{
+position: absolute;
+top: 90px;
+left: 10%;
+
+	
+}
+.audiooculos{
+position: absolute;
+top:400px;
+left:42%;	
+
+	
+}
+.caixaorelha{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+
+.orelhaposition{
+position: absolute;
+top: 640px;
+left: 10%;
+	
+}
+
+.audioorelha{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+.caixaovelha{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.ovelhaposition{
+position: absolute;
+top: 1100px;
+left:10%
+	
+}
+
+.audioovelha{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+.caixaovo{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.ovoposition{
+position: absolute;
+top: 1670px;
+left:10%;
+	
+}
+
+.audioovo{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+/*LETRA P*/
+
+.caixapato{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+ 
+ 
+.patoposition{
+position: absolute;
+top: 60px;
+left: 10%;
+
+	
+}
+.audiopato{
+position: absolute;
+top:400px;
+left:42%;	
+
+	
+}
+.caixapicole{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+
+.picoleposition{
+position: absolute;
+top: 640px;
+left: 10%;
+	
+}
+
+.audiopicole{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+.caixapipa{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.pipaposition{
+position: absolute;
+top: 1100px;
+left:10%
+	
+}
+
+.audiopipa{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+.caixaporco{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.porcoposition{
+position: absolute;
+top: 1670px;
+left:10%;
+	
+}
+
+.audioporco{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+/*LETRA Q*/
+
+.caixaquarto{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+ 
+ 
+.quartoposition{
+position: absolute;
+top: 60px;
+left: 10%;
+
+	
+}
+.audioquarto{
+position: absolute;
+top:400px;
+left:42%;	
+
+	
+}
+.caixaquebra{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+
+.quebraposition{
+position: absolute;
+top: 640px;
+left: 10%;
+	
+}
+
+.audioquebra{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+.caixaqueijo{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.queijoposition{
+position: absolute;
+top: 1100px;
+left:10%
+	
+}
+
+.audioqueijo{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+.caixaquindim{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.quindimposition{
+position: absolute;
+top: 1670px;
+left:10%;
+	
+}
+
+.audioquindim{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+/*LETRA R*/
+
+.caixaradio{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+ 
+ 
+.radioposition{
+position: absolute;
+top: 60px;
+left: 10%;
+
+	
+}
+.audioradio{
+position: absolute;
+top:400px;
+left:42%;	
+
+	
+}
+.caixaraquete{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+
+.raqueteposition{
+position: absolute;
+top: 640px;
+left: 10%;
+	
+}
+
+.audioraquete{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+.caixarato{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.ratoposition{
+position: absolute;
+top: 1100px;
+left:10%
+	
+}
+
+.audiorato{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+.caixarosa{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.rosaposition{
+position: absolute;
+top: 1670px;
+left:10%;
+	
+}
+
+.audiorosa{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+/*LETRA S*/
+
+.caixasabao{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+ 
+ 
+.sabaoposition{
+position: absolute;
+top: 90px;
+left: 10%;
+
+	
+}
+.audiosabao{
+position: absolute;
+top:400px;
+left:42%;	
+
+	
+}
+.caixasanfona{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+
+.sanfonaposition{
+position: absolute;
+top: 640px;
+left: 10%;
+	
+}
+
+.audiosanfona{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+.caixasino{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.sinoposition{
+position: absolute;
+top: 1100px;
+left:10%
+	
+}
+
+.audiosino{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+.caixaskate{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.skateposition{
+position: absolute;
+top: 1670px;
+left:10%;
+	
+}
+
+.audioskate{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+
+/*LETRA T*/
+
+.caixatijolo{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+ 
+ 
+.tijoloposition{
+position: absolute;
+top: 60px;
+left: 10%;
+
+	
+}
+.audiotijolo{
+position: absolute;
+top:400px;
+left:42%;	
+
+	
+}
+.caixatelefone{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+
+.telefoneposition{
+position: absolute;
+top: 640px;
+left: 10%;
+	
+}
+
+.audiotelefone{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+.caixatouca{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.toucaposition{
+position: absolute;
+top: 1100px;
+left:10%
+	
+}
+
+.audiotouca{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+.caixatesoura{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.tesouraposition{
+position: absolute;
+top: 1670px;
+left:10%;
+	
+}
+
+.audiotesoura{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+/*LETRA U*/
+
+.caixaunha{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+ 
+ 
+.unhaposition{
+position: absolute;
+top: 60px;
+left: 10%;
+
+	
+}
+.audiounha{
+position: absolute;
+top:400px;
+left:42%;	
+
+	
+}
+.caixauva{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+
+.uvaposition{
+position: absolute;
+top: 640px;
+left: 10%;
+	
+}
+
+.audiouva{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+.caixaurso{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.ursoposition{
+position: absolute;
+top: 1100px;
+left:10%
+	
+}
+
+.audiourso{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+.caixauniforme{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.uniformeposition{
+position: absolute;
+top: 1670px;
+left:10%;
+	
+}
+
+.audiouniforme{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+
+
+
+.caixarosa{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.rosaposition{
+position: absolute;
+top: 1670px;
+left:10%;
+	
+}
+
+.audiorosa{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+/*LETRA V*/
+
+.caixavara{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+ 
+ 
+.varaposition{
+position: absolute;
+top: 60px;
+left: 10%;
+
+	
+}
+.audiovara{
+position: absolute;
+top:400px;
+left:42%;	
+
+	
+}
+.caixavestido{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+
+.vestidoposition{
+position: absolute;
+top: 640px;
+left: 10%;
+	
+}
+
+.audiovestido{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+.caixaviolao{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.violaoposition{
+position: absolute;
+top: 1100px;
+left:10%
+	
+}
+
+.audioviolao{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+.caixavassoura{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.vassouraposition{
+position: absolute;
+top: 1670px;
+left:10%;
+	
+}
+
+.audiovassoura{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+/*LETRA W*/
+
+.caixawaffle{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+ 
+ 
+.waffleposition{
+position: absolute;
+top: 60px;
+left: 10%;
+
+	
+}
+.audiowaffle{
+position: absolute;
+top:400px;
+left:42%;	
+
+	
+}
+.caixawendi{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+
+.wendiposition{
+position: absolute;
+top: 640px;
+left: 10%;
+	
+}
+
+.audiowendi{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+.caixawifi{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.wifiposition{
+position: absolute;
+top: 1100px;
+left:10%
+	
+}
+
+.audiowifi{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+.caixawilian{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.wilianposition{
+position: absolute;
+top: 1670px;
+left:10%;
+	
+}
+
+.audiowilian{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+
+/*LETRA X*/
+
+.caixaxicara{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+ 
+ 
+.xicaraposition{
+position: absolute;
+top: 60px;
+left: 10%;
+
+	
+}
+.audioxicara{
+position: absolute;
+top:400px;
+left:42%;	
+
+	
+}
+.caixaxadrez{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+
+.xadrezposition{
+position: absolute;
+top: 640px;
+left: 10%;
+	
+}
+
+.audioxadrez{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+.caixaxilofone{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.xilofoneposition{
+position: absolute;
+top: 1100px;
+left:10%
+	
+}
+
+.audioxilofone{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+.caixaxarope{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.xaropeposition{
+position: absolute;
+top: 1670px;
+left:10%;
+	
+}
+
+.audioxarope{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+/*LETRA Y*/
+
+.caixayakisoba{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+ 
+ 
+.yakisobaposition{
+position: absolute;
+top: 60px;
+left: 10%;
+
+	
+}
+.audioyakisoba{
+position: absolute;
+top:400px;
+left:42%;	
+
+	
+}
+.caixayakult{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+
+.yakultposition{
+position: absolute;
+top: 640px;
+left: 10%;
+	
+}
+
+.audioyakult{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+.caixayoga{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.yogaposition{
+position: absolute;
+top: 1100px;
+left:10%
+	
+}
+
+.audioyoga{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+.caixayoutube{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.youtubeposition{
+position: absolute;
+top: 1670px;
+left:10%;
+	
+}
+
+.audioyoutube{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+
+/*LETRA Z*/
+
+.caixazebra{
+width:500px;
+Height:150px;
+position:absolute;
+top:200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+ 
+ 
+.zebraposition{
+position: absolute;
+top: 60px;
+left: 10%;
+
+	
+}
+.audiozebra{
+position: absolute;
+top:400px;
+left:42%;	
+
+	
+}
+.caixazipper{
+width:500px;
+Height:150px;
+position:absolute;
+top:760px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+
+.zipperposition{
+position: absolute;
+top: 640px;
+left: 10%;
+	
+}
+
+.audiozipper{
+position: absolute;
+top:950px;
+left:42%;	
+	
+	
+}
+
+
+.caixazoologico{
+width:500px;
+Height:150px;
+position:absolute;
+top:1200px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.zoologicoposition{
+position: absolute;
+top: 1100px;
+left:10%
+	
+}
+
+.audiozoologico{
+position: absolute;
+top:1400px;
+left:42%;	
+	
+	
+}
+
+.caixazangada{
+width:500px;
+Height:150px;
+position:absolute;
+top:1800px;
+left:35%;	
+border: 5px solid #AA8BBB;
+border-radius: 40px;
+font-size: 3.75rem;
+color: #240C32;
+}
+
+.zangadaposition{
+position: absolute;
+top: 1670px;
+left:10%;
+	
+}
+
+.audiozangada{
+position: absolute;
+top:2000px;
+left:42%;	
+	
+	
+}
+
+.btnclicaralfabeto{
+position: absolute;
+top:2200px;
+left: 48%;
+width: 110px;
+height: 110px;
+border-radius: 20px;
+border-color: #eddafc;
+background-color:#eddafc;
+}
+
+
+.btnletrarefazer{
+position: absolute;
+top:350px;
+left: 8%;
+width: 180px;
+height: 120px;
+border-radius: 20px;
+border-color: #eddafc;
+background-color:#eddafc;
+}
+
+.btnletraproximo{
+position: absolute;
+top:350px;
+left: 77%;
+width: 180px;
+height: 120px;
+border-radius: 20px;
+border-color: #eddafc;
+background-color:#eddafc;
+}
+
+
+.RefazereProximo {
+text-align: center;
+text-transform: uppercase;
+font-family: fantasy;
+color:#4E2159;
+font-size: 30px;
+}
+
+
+
+
+
+.footeralfabeto{
+	
+    position: absolute;
+	top: 800px;
+    bottom: 0;
+    background-color: #f2f2f2 ;
+    color: #f2f2f2;
+    width: 100%;
+    height: 80px;    
+    text-align: center;
+    line-height: 100px;	
+	
+	
+}
+
+
+.footerletras {
+    position: absolute;
+	top: 4000px;
+    bottom: 0;
+    background-color: #f2f2f2 ;
+    color: #f2f2f2;
+    width: 100%;
+    height: 80px;    
+    text-align: center;
+    line-height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 952px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 535px;
+  min-height: 836px;
+  margin: 58px auto 0 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 45px 30px 30px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  letter-spacing: 7px;
+  line-height: 1;
+  font-weight: 400;
+  margin: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 3.75rem;
+  font-weight: 700;
+  margin: 12px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 28px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none none solid;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1.125rem;
+  letter-spacing: 2px;
+  margin: 34px auto 0 0;
+  padding: 15px 46px 15px 45px;
+}
+
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 605px;
+  margin: -836px 0 58px auto;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 104px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 367px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.2);
+  padding: 30px;
+}
+
+
+
+.u-section-1 .u-layout-cell-3 {
+  min-height: 395px;
+}
+
+.u-section-1 .u-container-layout-4 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.2);
+  padding: 30px;
+}
+
+
+
+.u-section-1 .u-layout-cell-4 {
+  min-height: 384px;
+}
+
+.u-section-1 .u-container-layout-5 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.2);
+  padding: 30px;
+}
+
+
+.u-section-1 .u-layout-cell-5 {
+  min-height: 378px;
+}
+
+.u-section-1 .u-container-layout-6 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.2);
+  padding: 30px;
+}
+
+
+.u-section-1 .u-layout-cell-6 {
+  min-height: 104px;
+}
+
+.u-section-1 .u-container-layout-7 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    width: 441px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 499px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1308px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 388px;
+    margin-top: 60px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 12px;
+    margin-bottom: 60px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 345px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 345px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 345px;
+  }
+
+  .u-section-1 .u-icon-3 {
+    margin-left: 11px;
+  }
+
+  .u-section-1 .u-layout-cell-5 {
+    min-height: 345px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1042px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 186px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-cell-5 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-cell-6 {
+    min-height: 186px;
+  }
+
+  .u-section-1 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 836px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 213px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+
+  .u-section-1 .u-container-layout-6 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  
+
+  .u-section-1 .u-layout-cell-6 {
+    min-height: 213px;
+  }
+
+  .u-section-1 .u-container-layout-7 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}

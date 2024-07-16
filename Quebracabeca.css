@@ -1,0 +1,197 @@
+html {
+    font-family: Arial;
+}
+
+body {
+    background-color: white;
+    color: white;
+}
+
+.boards {
+    display: flex;
+    position:absolute;
+	top:100px;
+	left:150px;
+    margin-top: 32px;
+}
+
+.board {
+    background: white;
+    border:5px solid #864AA6;
+    border-radius: 6px;
+    
+    margin: 0 16px;
+}
+
+.board h3 {
+	font-size:40px;
+    padding: 10px;
+    position:relative;
+	left:20px;
+    color: black;
+	font-weight: bold;
+}
+
+.content{
+position:relative;
+left:40px;
+}
+
+#dropzone {
+    padding: 16px;
+    min-width: 300px;
+    min-height:200px;
+}
+
+#card {
+    background-color: #FCF1FD;
+    padding: 10px;
+    box-shadow: 0 2px 2px -1px #7C32A4;
+    width: 290px;
+    margin: 20px 0;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 35px;
+	color: black;
+}
+
+.status {
+    width: 30px;
+    height: 8px;
+    background: gray;
+    margin-bottom: 16px;
+    border-radius: 8px;
+}
+
+.status.green {
+    background: #864AA6;
+}
+
+.status.blue {
+    background: #864AA6;
+}
+
+.status.red {
+    background: #864AA6;
+}
+
+.highlight {
+    background-color: #FD951F08;
+}
+
+#card, #dropzone {
+    transition: 400ms;
+}
+
+.is-dragging {
+    cursor: move;
+    opacity: 0.3;
+}
+
+.over {
+    background-color: #4cd13711;
+}
+
+.venceu{
+position: relative;
+top:500px;
+left:400px;
+
+}
+
+.proximoquebra{
+height:200px;
+width:200px;
+position: relative;
+top:500px;
+left:580px;	
+}
+
+.voltarquebra{
+height:200px;
+width:200px;
+position: relative;
+top:500px;
+left:200px;	
+}
+
+/*inicial pagina*/
+
+.footerinicio {
+    position: absolute;
+	top:1000px;
+    bottom: 0;
+    background-color: #f2f2f2 ;
+    color: #f2f2f2;
+    width: 100%;
+    height: 80px;    
+    text-align: center;
+    line-height: 100px;
+}
+
+.footerjogo {
+    position: absolute;
+	top:1000px;
+    bottom: 0;
+    background-color: #f2f2f2 ;
+    color: #f2f2f2;
+    width: 100%;
+    height: 80px;    
+    text-align: center;
+    line-height: 100px;
+}
+
+
+
+header#sec-f0de{
+background-color: #f2f2f2; 	 
+height:80px;
+width:100%;
+ }
+
+nav#NAV li{
+	display:inline-block;
+	position:absolute;
+	top:-55px;
+	left:990px;
+	font-size: 23px ; 
+}
+
+div#play{
+position:absolute;
+top:150px;
+left:200px;
+height: 300px;
+width: 300px;
+}
+
+
+
+.playquebracabeca{
+height: 300px;
+width: 300px;
+}
+
+
+
+
+.instrucao{
+position:absolute;
+top:150px;
+left:600px;
+border: 5px #A07DAB solid;
+border-radius: 10px;
+height:300px;
+width:500px;
+}
+
+
+.legendaFieldset{
+text-align: center;
+}
+
+.audioinstrucao{
+position:relative;
+left:80px;	
+}
+/*fim*/

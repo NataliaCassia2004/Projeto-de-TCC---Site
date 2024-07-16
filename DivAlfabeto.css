@@ -1,0 +1,23 @@
+.fieldsetResultados{
+        
+            position:absolute;
+            top:2400px;
+            left:65px;
+			border: 5px #A07DAB solid;
+            border-radius: 10px;
+			height:1000px;
+			width:1300px;
+}
+
+.legendaFieldset{
+text-align: center;
+}
+
+.cssResultados{
+text-align: center;
+text-transform: uppercase;
+font-family: fantasy;
+color:#4E2159;
+font-size: 50px;
+	
+}
